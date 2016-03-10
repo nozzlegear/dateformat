@@ -1,4 +1,4 @@
-# reqwest.d.ts
+# dateformat.d.ts
 
 An ambient Typescript/Typings definition for [https://www.npmjs.com/package/dateformat](dateformat).
 
