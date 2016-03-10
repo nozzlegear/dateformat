@@ -7,13 +7,13 @@ An ambient Typescript/Typings definition for [https://www.npmjs.com/package/date
 Using [Typings](https://github.com/typings/typings):
 
 ```bash
-typings install github:nozzlegear/reqwest.d.ts --save
+typings install github:nozzlegear/dateformat.d.ts --save
 ```
 
 Using NPM and [TSD](https://github.com/Definitelytyped/tsd):
 
 ```bash
-npm install "git+https://git@github.com/nozzlegear/reqwest.d.ts.git"
+npm install "git+https://git@github.com/nozzlegear/dateformat.d.ts.git"
 
 tsd link
 ```
