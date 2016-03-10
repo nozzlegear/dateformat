@@ -1,0 +1,9 @@
+{
+  "name": "dateformat",
+  "main": "dateformat.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for DateFormat.",
+  "ambientDevDependencies": {
+    
+  }
+}
