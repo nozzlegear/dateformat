@@ -1,6 +1,6 @@
 # dateformat.d.ts
 
-An ambient Typescript/Typings definition for [https://www.npmjs.com/package/dateformat](dateformat).
+An ambient Typescript/Typings definition for [dateformat](https://www.npmjs.com/package/dateformat).
 
 ### Installation
 
